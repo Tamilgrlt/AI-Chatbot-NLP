@@ -21,4 +21,4 @@ This chatbot can answer basic questions related to technology, programming, and 
 The chatbot runs in a Python environment and can be executed through VS Code terminal. Users can type questions, and the chatbot responds instantly until the user exits the conversation.
 
 OUTPUT:
-Screenshot 2026-03-09 111219.png
+
