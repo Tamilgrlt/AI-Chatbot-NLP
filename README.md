@@ -12,7 +12,7 @@ DURATION : 8 WEEKS
 
 MENTOR : NEELA SANTHOSH
 
-Project Overview:
+1.Project Overview:
 
 The AI Chatbot with NLP project is a conversational system developed using Python and Natural Language Processing techniques. The chatbot is designed to interact with users by understanding their questions and providing relevant responses based on a predefined knowledge base.
 
@@ -20,7 +20,7 @@ The system processes user input using the NLTK library, which helps in performin
 
 This project demonstrates how artificial intelligence and NLP can be used to create simple automated conversational systems that can assist users by answering basic queries.
 
-Objective:
+2.Objective:
 
 The main objective of this project is to develop an AI-based chatbot that can understand user queries and respond automatically using Natural Language Processing techniques.
 
@@ -36,7 +36,7 @@ To demonstrate the use of Python libraries for building AI applications
 
 To create a simple and user-friendly chatbot interface
 
-Features:
+3.Features:
 
 Interactive chatbot that communicates with users
 
@@ -50,7 +50,7 @@ Continuous conversation until the user exits
 
 Easy to expand with additional questions and responses
 
-Technologies Used:
+4.Technologies Used:
 
 Programming Language
 
