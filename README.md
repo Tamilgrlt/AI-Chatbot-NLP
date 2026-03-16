@@ -19,3 +19,5 @@ The project uses the NLTK (Natural Language Toolkit) library to process user inp
 This chatbot can answer basic questions related to technology, programming, and general information. The goal of this project is to demonstrate how Natural Language Processing can be used to build simple AI-based conversational systems.
 
 The chatbot runs in a Python environment and can be executed through VS Code terminal. Users can type questions, and the chatbot responds instantly until the user exits the conversation.
+
+OUTPUT:
